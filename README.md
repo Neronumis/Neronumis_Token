@@ -14,6 +14,7 @@ Where can I buy NERO tokens?
 NERO can always be exchanged on our website at any time for a fixed value.
 You can sell NERO via some centralised and decentralised exchanges such as Uniswap, Pancakeswap or Matcha DEX.
 You can also swap NERO/USDC directly in your MetaMask wallet.
+
 Swap NERO/USDC:
 https://www.matcha.xyz/markets/1/0xf840099e75199255905284c38708d594546560a4/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
 
@@ -53,7 +54,7 @@ Why don't I just trade myself?
 
 Of course you can do that.
 But we at Neronumis have made it our mission to offer people who do not want to deal 24/7 with chart analysis, indicators and news in the crypto world an easy way to participate in the market without having to deal with it 24/7.
-The only thing you need to do is to set up a wallet (we recommend METAMASK) and keep your NERO shares secure in your wallet, we will do the rest for you.
+The only thing you need to do is to set up a wallet (we recommend MetaMask) and keep your NERO shares secure in your wallet, we will do the rest for you.
 
 ---
 
@@ -62,7 +63,8 @@ How do I add NERO to my wallet?
 To receive NERO in your wallet, you first need a wallet like Metamask.
 Once you have downloaded the wallet of your choice, you need to add NERO as a token.
 Simply use this link to add NERO direct to your MetaMask Wallet.
-Add NERO to Metamask:
+
+Add NERO to MetaMask:
 https://bit.ly/3FCxUqe
 
 ---
