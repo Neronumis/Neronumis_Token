@@ -16,7 +16,7 @@ You can sell NERO via some centralised and decentralised exchanges such as Unisw
 You can also swap NERO/USDC directly in your MetaMask wallet.
 
 Swap NERO/USDC:
-https://www.matcha.xyz/markets/1/0xf840099e75199255905284c38708d594546560a4/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+https://bit.ly/3Umktid
 
 ---
 
