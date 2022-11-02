@@ -55,7 +55,7 @@ To receive NERO in your wallet, you first need a wallet like Metamask.
 Once you have downloaded the wallet of your choice, you need to add NERO as a token.
 Simply use this link to add NERO direct to your MetaMask Wallet.
 Add NERO to Metamask:
-...
+https://bit.ly/3FCxUqe
 
 ---
 
