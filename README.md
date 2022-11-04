@@ -22,7 +22,12 @@ https://bit.ly/3Umktid
 
 Do I have to pay any fees for buying or selling?
 
-You pay only the network fees for the transaction, there are no additional fees.
+We buy/sell Nero at any time at the set rate.
+If you buy Nero directly from us, a management fee of 3% is already included.
+We always have a buy (Low) and sell (High) price, the current prices can be found in our annual table on the website.
+In the buy (Low) price the management fees are already included, therefore the buy (Low) price is always 3% lower than the sell (High) price.
+
+
 
 ---
 
